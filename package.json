@@ -1,0 +1,29 @@
+{
+  "name": "uebungen-azubis",
+  "version": "1.0.0",
+  "description": "Hallo, das hier ist dein eigenes Repository wo du Sachen ausprobieren kannst =).\r Mit den hier genannten Übungen wirst du fit um bei uns direkt mit zu entwickeln.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Megajin/uebungen-cora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Megajin/uebungen-cora/issues"
+  },
+  "homepage": "https://github.com/Megajin/uebungen-cora#readme",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.2"
+  }
+}
